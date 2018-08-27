@@ -1,0 +1,21 @@
+export default [{
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/f1.png',
+	title:'记录成长',
+	text:['所有重要成绩、测评报告、生涯笔记',
+		'硬性竞赛、社会实践、导师评价等信息']
+},{
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/f2.png',
+	title:'教师评价',
+	text:['及时评价学生的活动状况，多维度评价',
+		'指标一键勾选，提高师生互动效率']
+},{
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/f3.png',
+	title:'电子档案',
+	text:['为学生的自主招生、综合素质评价及留',
+		'学申请提供电子档案']
+},{
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/f4.png',
+	title:'查看分享',
+	text:['教师、家长、学生一键查看学生成长档案',
+		'全方位了解学生特长和兴趣优势']
+}];

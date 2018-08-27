@@ -1,0 +1,29 @@
+export default [{
+	id:1,
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/1.jpg',
+	src1:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/mb1.png',
+	title:'走课排课',
+	url:'/schedule',
+	content:`高中生在学除了要学习必修课程，还有总量超过必修课程的国家选修课程和一定数量的学校自主开发的必备选修课程。学生可以根据自己喜好，\
+			选择自己喜欢的学科和教师，安排自己的课堂学习。\
+			核心内容之一就是打破传统的文理分科局限，将考试科目改为"3+3"(语数外3门必考+3门选考模式)，扩大了学生的自主选择权。`
+},{
+	id:2,
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/2.jpg',
+	src1:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/mb2.png',
+	title:'职业生涯规划',
+	url:'/career',
+	content:`在学术界人们也喜欢叫“生涯规划”，在有些地区，也有一些人喜欢用“人生规划”来称呼，其实表达的都是同样的内容。又叫职业生涯设计，\
+			是指个人与组织相结合，在对一个人职业生涯的主客观条件进行测定、分析、总结的基础上，对自己的兴趣、爱好、能力、价值观，特点进行\
+			综合分析与权衡，结合时代特点，根据自己的职业倾向，确定其最佳的职业奋斗目标，并为实现这一目标做出行之有效的计划。`
+},{
+	id:3,
+	title:'综合素质评价',
+	url:'/composite',
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/3.jpg',
+	src1:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/mb3.png',
+	content:`对学生全面发展状况的观察、记录、分析、发现和培育学生良好个性，深入推进素质教育<br>\
+			有利于促进学生认识自我，规划人生，积极主动地发展<br>\
+			有利于促进学校把握学生成长规律，切实改变人才培养模式<br>\
+			有利于促进评价方式改革，转变以考试成绩为唯一标准评价学生的做法，为高校招生录取提供重要参考`
+}]

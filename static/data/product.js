@@ -1,0 +1,21 @@
+export default [{
+	title:'智慧校园',
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/2%20%282%29.jpg',
+	//src:'./static/img/home/1.jpg'
+},{
+	title:'网上阅卷',
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/1%20%282%29.jpg',
+	//src:'./static/img/home/2.jpg'
+},{
+	title:'(校园弱电工程)平安校园',
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/3%20%282%29.jpg',
+	//src:'./static/img/home/3.jpg'
+},{
+	title:'多媒体教室',
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/4.jpg',
+	//src:'./static/img/home/4.jpg'
+},{
+	title:'功能教室',
+	src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/5.jpg',
+	//src:'./static/img/home/5.jpg'
+}]

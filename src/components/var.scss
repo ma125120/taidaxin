@@ -1,0 +1,8 @@
+$red:#C40001;
+@mixin w() {
+	width: 6.86rem;
+	margin: 0 auto;
+}
+@mixin bs() {
+	box-shadow: 2px 2px 6px rgba(0,0,0,.05),-2px -2px 6px rgba(0,0,0,.05);
+}

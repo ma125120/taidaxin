@@ -1,0 +1,30 @@
+body {
+  font-family: "Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  color:#333;
+  overflow-x: hidden;
+}
+@media screen and (max-width: 1200px) {
+	.my-width {
+		width: 100%;
+	}
+	body {
+		font-family: "思源黑体","Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+		width: 7.5rem;
+		overflow-x: hidden;
+	}
+	.block {
+		display: block;
+	}
+	.mb-none {
+		display: none;
+	}
+	.my-sub-text {
+		font-size: .22rem;
+		line-height: .36rem;
+		margin-bottom: .24rem !important;
+	}
+	.mb-inline {
+		display: inline-block;
+		vertical-align: middle;
+	}
+}

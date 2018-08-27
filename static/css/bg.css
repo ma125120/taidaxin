@@ -1,0 +1,110 @@
+.home-bg {
+	background-image: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg%20%285%29.jpg');
+	background-size: cover;
+	width:100vw;
+	height: 49.47916666vw;
+}
+.home-top {
+	width:100vw;
+	height: 49.47916666vw;
+	position: relative;
+}
+.examine-bg {
+	background-image: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg%20%284%29.jpg');
+	/*background-image: url('../../static/img/examine/bg.jpg');*/
+	background-size: cover;
+	width:100vw;
+	height: 29.5999999vw;
+}
+.examine-top {
+	height: 29.5999999vw;
+}
+.comments {
+	height: 29.5999999vw;
+}
+.about-bg {
+	background: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg%20%286%29.jpg') no-repeat;
+	background-size: 100% 100%;
+}
+.red-bg {
+	background: url('../../static/img/about/redbg.jpg');
+	background-size: cover;
+}
+.career-bg {
+	background: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg%20%282%29.jpg');
+	background-size: cover;
+}
+.career-bg1 {
+	background: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg1.jpg');
+	background-size: cover;
+}
+.wisdom-bg {
+	background: url('../../static/img/wisdom/bg.jpg');
+	background-size: cover;
+}
+.dashed-bg {
+	background: url('../../static/img/career/dashed.png') no-repeat;
+}
+.schedule-bg {
+	background: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg.jpg') no-repeat;
+	background-size: cover;
+	
+}
+
+.composite-bg {
+	background: url('https://taidaxin.oss-cn-qingdao.aliyuncs.com/bg%20%283%29.jpg') no-repeat;
+}
+
+.white-font {
+	color:rgba(255,255,255,.9);
+}
+.humber:hover {
+	cursor: pointer;
+}
+.humber .span {
+	width: 16px;
+	height: 3px;
+	margin-bottom: 4px;
+}
+.white-bg {
+	background: #fff;
+}
+.black-bg {
+	background: #000;
+}
+.n-p .p {
+	text-indent: 2em;
+	margin-top: 4px;
+	text-align: justify;
+}
+.n-p .none-p {
+	margin-top: 2px;
+}
+.my-slide-enter-active {
+  animation: my-slide .5s;
+}
+.my-slide-leave-active {
+  animation: my-slide .5s reverse;
+}
+@keyframes my-slide {
+  0% {
+    height:0;
+  }
+  100% {
+    height:100%;
+  }
+}
+.opacity-enter-active {
+  animation: opacity .3s;
+}
+.opacity-leave-active {
+  animation: opacity .3s reverse;
+}
+@keyframes opacity {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}

@@ -1,0 +1,31 @@
+export default {
+	func:{
+		left:[{
+			title:'在线测评',
+			text:'在线测评并生成个性化测评报告'
+		},{
+			title:'智能管理',
+			text:'支持个体与团体的测评结果查询与导出'
+		}],
+		right:[{
+			title:'统计分析',
+			text:'支持测评结果的整体统计与分析'
+		},{
+			title:'个性定制',
+			text:'支持自定义测评量表添加'
+		}]
+	},
+	cards:[{
+		src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/c1.png',
+		title:['兴趣评估','专业、学职群']
+	},{
+		src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/c2.png',
+		title:['性格评估','学习风格、擅长领域']
+	},{
+		src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/c3.png',
+		title:['智能评估','优劣势智能']
+	},{
+		src:'https://taidaxin.oss-cn-qingdao.aliyuncs.com/c4.png',
+		title:['学习生活适应性评估','初中升高中的适应性']
+	}]
+}

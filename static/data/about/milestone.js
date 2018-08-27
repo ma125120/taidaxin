@@ -1,0 +1,21 @@
+export default [{
+	id:1,
+	time:'2013年4月',
+	text:'<div>山西泰达鑫科技有限</div><div>公司正式成立</div>'
+},{
+	id:2,
+	time:'2013年4月',
+	text:'<div>与五岳鑫达成正式合作</div><div>成为代理商</div>'
+},{
+	id:3,
+	time:'2013年4月',
+	text:'<div>与中国东软集团高度战略合作</div><div>在山西省推睿云APP</div>'
+},{
+	id:4,
+	time:'2017年1月',
+	text:'<div>推出最新"云五岳"阅卷系统</div><div>山西省正式进入云阅卷时代</div>'
+},{
+	id:5,
+	time:'2017年12月',
+	text:'<div>公司阅卷系统</div><div>总销售额：7890000元</div>'
+}]

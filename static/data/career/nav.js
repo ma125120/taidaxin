@@ -1,0 +1,22 @@
+export default [{
+	text:'生涯测评系统',
+	url:'career_appraisal'
+},{
+	text:'学职信息系统',
+	url:'career_message'
+},{
+	text:'生涯教辅系统',
+	url:'career_assistants'
+},{
+	text:'选课决策系统',
+	url:'career_decision'
+},{
+	text:'志愿填报系统',
+	url:'career_volunteer'
+},{
+	text:'成长激励系统',
+	url:'career_stimulate'
+},{
+	text:'成长档案系统',
+	url:'career_record'
+}];
